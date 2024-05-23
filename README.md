@@ -19,4 +19,5 @@ Analyze Cumulative Revenue Generated Over Time.
 
 
 CONCLUSIONS: 
+
 The analysis of pizza sales data has yielded valuable insights into various business aspects: understanding total order volume for comprehensive customer demand assessment, calculating total revenue as a key financial performance indicator, and identifying the highest-priced pizza to inform product strategies. Additionally, knowledge of common pizza sizes enables effective inventory and pricing management, while identifying top 5 pizzas facilitates menu optimization and targeted marketing. Analyzing consumption patterns, top revenue-generating pizzas, and their contribution percentages over time guides strategic decision-making for sustained growth.
